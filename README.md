@@ -4,15 +4,16 @@
 
 I'm a Software Developer passionate about problem solving. Currently working on multiple projects.
 
-- 🔭 I'm currently working on multiple projects
-- 🌱 I'm currently learning
-- 💬 Ask me about any problem you are unable to solve for long
+- 🔭 Currently exploring system security, AI/ML, and scalable app architectures
+- 💬 Ask me about debugging, architecture design, or performance optimization
+- ⚡ Typing ~120 WPM (EN/TR), love perfect code and automation
 - 📫 How to reach me: tolgaflashtr@gmail.com
 
 ## 🛠️ Tech Stack
 
 ### Languages
 
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -95,7 +96,7 @@ I'm a Software Developer passionate about problem solving. Currently working on 
 
 ### [ASS Subtitle Font Changer](https://github.com/TolgaFlashTR/ass-subtitle-font-changer)
 
-Change the font used for a subtitle file(.ass). Written with C++.
+Fork-inspired C++ tool — I debugged and fixed a broken version to make it work properly.
 
 ## 🤝 Connect with Me
 
