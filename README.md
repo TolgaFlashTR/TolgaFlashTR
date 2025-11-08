@@ -2,14 +2,12 @@
 
 ## 🚀 About Me
 
-I'm a [Full Stack Developer/Software Engineer/Data Scientist/etc.] passionate about [your interests]. Currently working on [current project/focus].
+I'm a Software Developer passionate about problem solving. Currently working on multiple projects.
 
-- 🔭 I'm currently working on **[Project Name]**
-- 🌱 I'm currently learning **[Technology/Framework]**
-- 👯 I'm looking to collaborate on **[Type of Projects]**
-- 💬 Ask me about **[Your expertise areas]**
-- 📫 How to reach me: **[tolgaflashtr@gmail.com]**
-- ⚡ Fun fact: **[Something interesting about you]**
+- 🔭 I'm currently working on multiple projects
+- 🌱 I'm currently learning
+- 💬 Ask me about any problem you are unable to solve for long
+- 📫 How to reach me: tolgaflashtr@gmail.com
 
 ## 🛠️ Tech Stack
 
