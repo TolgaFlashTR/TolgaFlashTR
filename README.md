@@ -1,8 +1,8 @@
-# Hi there 👋 I'm Tolga
+# Hi there 👋 I'm Tolga YILDIRIM
 
 ## 🚀 About Me
 
-I'm a Software Developer passionate about problem solving. Currently working on multiple projects.
+**Software Engineer • Problem-solver • Builder of practical tools**
 
 - 🔭 Currently exploring system security, AI/ML, and scalable app architectures
 - 💬 Ask me about debugging, architecture design, or performance optimization
