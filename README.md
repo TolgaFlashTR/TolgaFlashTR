@@ -78,19 +78,7 @@
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=TolgaFlashTR&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TolgaFlashTR&layout=compact&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TolgaFlashTR&theme=radical)
-
-## 🏆 GitHub Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=TolgaFlashTR&theme=radical&no-frame=true&row=1)
-
-## 📈 Activity Graph
-
-[![Your Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TolgaFlashTR&theme=react-dark)](https://github.com/TolgaFlashTR)
+![Metrics](https://raw.githubusercontent.com/TolgaFlashTR/TolgaFlashTR/main/metrics.svg)
 
 ## 💼 Featured Projects
 
